@@ -1,0 +1,4 @@
+*.session
+*.csv
+telegram_entities_backup.*
+secrets.txt
